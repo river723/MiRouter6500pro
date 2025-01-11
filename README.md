@@ -1,3 +1,2 @@
-# Mi 6500pro router for Home Assistant
+# Mi 6500pro router device_tracker for Home Assistant
 
-## Installation
