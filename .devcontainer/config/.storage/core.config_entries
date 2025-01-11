@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "minor_version": 4,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {"created_at":"2025-01-11T03:10:18.076298+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"sun","entry_id":"01JH9NEKEWHWKSK23Q2470F3YC","minor_version":1,"modified_at":"2025-01-11T03:10:18.076304+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"import","title":"Sun","unique_id":null,"version":1},
+      {"created_at":"2025-01-11T03:10:18.482139+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"go2rtc","entry_id":"01JH9NEKVJGW129NV7WY8MMG1E","minor_version":1,"modified_at":"2025-01-11T03:10:18.482144+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"system","title":"go2rtc","unique_id":null,"version":1}
+    ]
+  }
+}

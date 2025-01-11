@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "minor_version": 4,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {"created_at":"2025-01-11T04:01:27.934815+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"sun","entry_id":"01JH9RC9BYS95P1MVHDGHSQEB2","minor_version":1,"modified_at":"2025-01-11T04:01:27.934822+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"import","title":"Sun","unique_id":null,"version":1},
+      {"created_at":"2025-01-11T04:01:28.330849+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"go2rtc","entry_id":"01JH9RC9RAGW129NV7WY8MMG1E","minor_version":1,"modified_at":"2025-01-11T04:01:28.330854+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"system","title":"go2rtc","unique_id":null,"version":1},
+      {"created_at":"2025-01-11T04:53:12.286401+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"shopping_list","entry_id":"01JH9VB0YYNVGG2FGTF5AVGM57","minor_version":1,"modified_at":"2025-01-11T04:53:12.286408+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","title":"Shopping list","unique_id":"shopping_list","version":1},
+      {"created_at":"2025-01-11T04:53:12.299528+00:00","data":{"language":"en","tld":"com"},"disabled_by":null,"discovery_keys":{},"domain":"google_translate","entry_id":"01JH9VB0ZB76D0PA0G28CXS7G5","minor_version":1,"modified_at":"2025-01-11T04:53:12.299533+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","title":"Google Translate text-to-speech","unique_id":null,"version":1},
+      {"created_at":"2025-01-11T04:53:12.469623+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"radio_browser","entry_id":"01JH9VB14N5JRA8PMA0Y6DSNJT","minor_version":1,"modified_at":"2025-01-11T04:53:12.469630+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","title":"Radio Browser","unique_id":null,"version":1},
+      {"created_at":"2025-01-11T05:08:15.826201+00:00","data":{"host":"192.168.1.1","password":"abc12345de","scan_interval":60},"disabled_by":null,"discovery_keys":{},"domain":"mi6500pro","entry_id":"01JH9W6KAJRSBT79PSPYN88A2C","minor_version":1,"modified_at":"2025-01-11T05:08:15.826208+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"user","title":"192.168.1.1","unique_id":null,"version":1}
+    ]
+  }
+}

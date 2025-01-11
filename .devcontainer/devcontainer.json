@@ -1,0 +1,9 @@
+{
+  "name": "Home Assistant Plugin Development",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "homeassistant",
+  "workspaceFolder": "/workspace",
+  "extensions": [
+    "ms-python.python"
+  ]
+}

@@ -1,0 +1,12 @@
+version: '3'
+services:
+  homeassistant:
+    image: homeassistant/home-assistant:stable
+    container_name: homeassistant
+    volumes:
+      - .:/workspace
+      - ./custom_components:/config/custom_components
+      - ./config:/config
+    ports:
+      - "8123:8123"
+    restart: always
