@@ -19,11 +19,11 @@
     ```
     ├── custom_components/
     │   └── mi6500pro/
-    │       ├── [__init__.py](http://_vscodecontentref_/1)
-    │       ├── [manifest.json](http://_vscodecontentref_/2)
-    │       ├── [device_tracker.py](http://_vscodecontentref_/3)
-    │       ├── [encrypt.py](http://_vscodecontentref_/4)
-    │       └── [const.py](http://_vscodecontentref_/5)
+    │       ├── __init__.py
+    │       ├── manifest.json
+    │       ├── device_tracker.py
+    │       ├── encrypt.py
+    │       └── const.py
     ```
 
 ## 配置
