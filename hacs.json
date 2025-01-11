@@ -1,5 +1,14 @@
 {
-  "name": "Mi 6500pro router",
+  "name": "Mi 6500pro Router Device Tracker",
+  "content_in_root": false,
   "render_readme": true,
-  "iot_class": "local_polling"
+  "domains": ["device_tracker"],
+  "country": ["cn"],
+  "homeassistant": "0.110.0",
+  "zip_release": false,
+  "filename": "manifest.json",
+  "iot_class": "local_polling",
+  "manifest": "https://github.com/river723/MiRouter6500pro/blob/main/custom_components/mi6500pro/manifest.json",
+  "codeowners": ["@river723"],
+  "version": "0.1.1"
 }
