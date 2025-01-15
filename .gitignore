@@ -172,3 +172,4 @@ cython_debug/
 # Ignore the config directory
 config/
 __pycache__
+mi6500pro/__pycache__
