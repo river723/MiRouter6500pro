@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 # Ignore the config directory
 config/
+__pycache__
