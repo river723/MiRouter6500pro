@@ -6,6 +6,5 @@
   "homeassistant": "0.110.0",
   "zip_release": false,
   "filename": "manifest.json",
-  "manifest": "https://github.com/river723/MiRouter6500pro/blob/main/custom_components/mi6500pro/manifest.json",
   "version": "0.1.1"
 }
