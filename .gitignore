@@ -175,3 +175,4 @@ __pycache__
 custom_components/mi6500pro/__pycache__
 .devcontainer
 .vscode
+tests
