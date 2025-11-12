@@ -26,9 +26,9 @@
     │       └── const.py
     ```
 
-## 配置
+   #### 配置
 
-1. 在 Home Assistant 配置文件 `configuration.yaml` 中添加以下内容：
+    1. 在 Home Assistant 配置文件 `configuration.yaml` 中添加以下内容：
 
     ```yaml
     device_tracker:
@@ -49,5 +49,6 @@
 欢迎提交问题和贡献代码！请访问 [GitHub 仓库](https://github.com/river723/MiRouter6500pro) 获取更多信息。
 
 ## 许可证
+
 
 MIT License
