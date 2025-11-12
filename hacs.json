@@ -1,0 +1,7 @@
+{
+  "name": "Mi 6500pro Router Device Tracker",
+  "content_in_root": false,
+  "render_readme": true,
+  "country": ["cn"],
+  "homeassistant": "0.110.0"
+}
