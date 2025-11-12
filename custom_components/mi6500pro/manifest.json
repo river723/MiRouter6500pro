@@ -1,0 +1,15 @@
+{
+  "codeowners": ["@river723"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/river723/MiRouter6500pro",
+  "domain": "mi6500pro",
+  "iot_class": "local_polling",
+  "name": "Mi 6500pro router",
+  "requirements": [
+    "beautifulsoup4==4.12.3",
+    "pycryptodome==3.21.0",
+    "aiohttp==3.11.11"],
+  "issue_tracker": "https://github.com/river723/MiRouter6500pro/issues",
+  "version": "1.01"
+}
